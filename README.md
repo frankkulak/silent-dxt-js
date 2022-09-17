@@ -1,4 +1,4 @@
-# @s4tk/dxt
+# silent-dxt-js
 
 This is a clone of [Robin Appelman's dxt.js](https://www.npmjs.com/package/dxt-js), except with the following line manually removed from the built `squish.js` file.
 
