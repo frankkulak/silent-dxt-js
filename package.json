@@ -1,7 +1,7 @@
 {
 	"name": "silent-dxt-js",
 	"version": "0.0.3",
-	"description": "A version of dxt-js that doesn't yell at you for unhandled exceptions.",
+	"description": "A clone of dxt-js that doesn't throw unhandled exceptions.",
 	"author": "frankkulak",
 	"keywords": [
 		"dxt",
