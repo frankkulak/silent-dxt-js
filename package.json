@@ -1,0 +1,21 @@
+{
+	"name": "silent-dxt-js",
+	"version": "0.0.3",
+	"description": "A version of dxt-js that doesn't yell at you for unhandled exceptions.",
+	"author": "frankkulak",
+	"keywords": [
+		"dxt",
+		"squish",
+		"compression"
+	],
+	"main": "./src/dxt.js",
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"files": [
+		"squish",
+		"src",
+		"README.md",
+		"LICENSE"
+	]
+}
